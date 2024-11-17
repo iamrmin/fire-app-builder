@@ -14,7 +14,7 @@ express or implied. See the License for the specific language governing
 permissions and limitations under the License.
 -->
 <resources>
-    <string name="mini_browser" translatable="false">Fire App Builder</string>
+    <string name="mini_browser" translatable="false">AirPlay by Rashmin</string>
     <string name="cursor_mode_description">Use Cursor Mode</string>
     <string name="turn_off_cursor">Turn Off Cursor</string>
     <string name="menu_description">Options Menu</string>
