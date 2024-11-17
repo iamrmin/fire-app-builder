@@ -37,7 +37,7 @@ buildscript {
 }
 
 android {
-    compileSdkVersion 23
+    compileSdk 28
 
     defaultConfig {
         applicationId "com.fireappbuilder.android.calypso"
